@@ -1,2 +1,6 @@
 Untitled.ipynb
 .ipynb_checkpoints/
+.vscode/
+*.swp
+**/*.txt
+**/*.out
